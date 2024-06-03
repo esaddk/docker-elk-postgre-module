@@ -13,6 +13,7 @@ Before you begin, ensure you have the following installed on your local machine:
 
 Your project directory should have the following structure:
 
+```
 .
 ├── docker-compose.yml
 ├── filebeat
@@ -21,7 +22,7 @@ Your project directory should have the following structure:
 │       └── postgresql.yml
 ├── logs
 └── data
-
+```
 
 ## Step-by-Step Setup
 
