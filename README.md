@@ -132,6 +132,9 @@ docker logs filebeat
 2. Go to the "Dashboard" section.
 3. Look for the PostgreSQL dashboards. They should be named something like "Filebeat PostgreSQL".
 
+![image](https://github.com/esaddk/docker-elk-postgre-module/assets/39684307/ae1205cd-e374-4118-883b-00bec5689dca)
+
+
 ### Troubleshooting
 
 If you encounter issues, check the following:
